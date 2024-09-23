@@ -1,0 +1,1 @@
+The code calculates the trend and seasonal components of weekly consumption data using moving averages. It distinguishes between odd and even-length moving averages based on the data's length. The seasonal component is derived by calculating deviations from the trend. Finally, it visualizes these components using matplotlib.
